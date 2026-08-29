@@ -2,7 +2,7 @@
 ## Title: MainTank
 ## Notes: Deep tank mitigation & incoming-damage analysis: armor, avoidance, blocks, resists, absorbs, DR, timelines, Events/event details, comparisons, persistent boss encounter profiles, and fight history.
 ## Author: TerraBaddie & OpenAI
-## Version: 1.2.62
+## Version: 1.2.63
 ## SavedVariables: MainTankDB
 
 UI\PieRenderer.lua
@@ -33,6 +33,7 @@ Modules\StartupPerformance.lua
 Modules\ArchiveDiagnostics.lua
 Modules\FightViewSafety.lua
 Modules\BossProfilePersistence.lua
+Modules\BossGuard2.lua
 UI\BossProfilePolish.lua
 UI\Pie.lua
 UI\History.lua
